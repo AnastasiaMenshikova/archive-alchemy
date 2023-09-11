@@ -1,0 +1,20 @@
+{ 
+  "description": "An NFT proving I've developer an ERC721 Token", 
+  "external_url": "Alchemy.com", 
+  "image": "https://ipfs.filebase.io/ipfs/bafybeihyvhgbcov2nmvbnveunoodokme5eb42uekrqowxdennt2qyeculm",
+  "name": "A cool NFT", 
+  "attributes": [ 
+     {
+      "trait_type": "Coolness", 
+      "value": "Top"
+    }, 
+    {
+      "trait_type": "Difficulty", 
+      "value": "Beginner"
+    }, 
+    {
+      "trait_type": "Motto", 
+      "value": "Let's go"
+    } 
+   ]
+}
