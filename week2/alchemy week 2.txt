@@ -1,3 +1,0 @@
-https://github.com/AnastasiaMenshikova/crypto-coffee
-https://goerli.etherscan.io/address/0x87B9CFe5487d027102532B16657cd410432DBeE7
-https://crypto-coffee-khaki.vercel.app
